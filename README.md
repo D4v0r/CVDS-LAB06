@@ -5,7 +5,8 @@
 
 > Autor: _Davor Cortés_
 
-## Guess Game Web App
+## Guess Game Web Project
+link https://eci-guess-game.herokuapp.com/faces/guess.xhtml
 
 [![CircleCI](https://circleci.com/gh/D4v0r/CVDS-LAB06.svg?style=svg)](https://circleci.com/gh/D4v0r/CVDS-LAB06)
 
