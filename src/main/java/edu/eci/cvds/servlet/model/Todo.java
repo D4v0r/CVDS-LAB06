@@ -2,7 +2,10 @@ package edu.eci.cvds.servlet.model;
 
 public class Todo {
 
-    private String userId, id, title, completed;
+    private String userId;
+    private String id;
+    private String title;
+    private String completed;
 
 
     public String getUserId() {

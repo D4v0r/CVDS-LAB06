@@ -2,13 +2,11 @@ package edu.eci.cvds.servlet.model;
 
 
 import javax.faces.bean.ManagedBean;
-import javax.faces.bean.ApplicationScoped;
 import javax.faces.bean.SessionScoped;
 import java.util.ArrayList;
 import java.util.List;
 
 @ManagedBean(name= "guessBean")
-//@ApplicationScoped
 @SessionScoped
 public class SessionBacking {
 
