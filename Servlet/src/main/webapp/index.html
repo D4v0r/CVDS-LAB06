@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Start Page</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <script>
+            function validateForm(){
+                var num = document.forms["numForm"]["num"].value;
+                if (isNaN(num)){
+                    alert("No es un número =(");
+
+                } else{
+                    alert("Es un número =)");
+
+                }
+                return false;
+            }
+        </script>
+    </head>
+    <body>
+        <form name="numForm" action="/myWebApp" onsubmit = "return(validateForm());" method="POST">
+            <label for="num">Ingrese un número:</label>
+            <input type="text" id="num" name="num"><br><br>
+            <input type="submit" value="Enviar">
+        </form>
+    </body>
+</html>

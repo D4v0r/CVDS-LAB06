@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3c.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:p="http://primefaces.org/ui">
+
+<h:body>
+    <h:form id="guess_form">
+        <p:outputLabel style="display: none" value="#{guessBean.numero}"></p:outputLabel>
+        <h:panelGrid id = "panel" columns = "1" border = "1"
+                     cellpadding = "10" cellspacing = "1">
+
+            <p:outputLabel value="Número de Intentos: #{guessBean.numeroDeIntentos}"></p:outputLabel>
+            <p:outputLabel value="Estado de Juego: #{guessBean.estado}"></p:outputLabel>
+            <p:outputLabel value="Premio: #{guessBean.premioAcumulado}"></p:outputLabel>
+            <p:inputText id="intento" binding="#{intento}" type="numeric"></p:inputText>
+
+            <p:commandButton value="Adivinar" update="guess_form" actionListener="#{guessBean.guess(intento.value)}"></p:commandButton>
+            <p:commandButton value="Reiniciar" update="guess_form" actionListener="#{guessBean.restart()}"></p:commandButton>
+        </h:panelGrid>
+        <p:dataTable var="intentos" value="#{guessBean.intentosFallidos}" style="width:150px;">
+            <p:column headerText="Numeros ingresados:">
+                <h:outputText value= "#{intentos}"/>
+            </p:column>
+        </p:dataTable>
+    </h:form>
+
+
+</h:body>
+</html>
+
