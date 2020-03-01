@@ -1,0 +1,98 @@
+[33mcommit 7cdc2599ecada5a586fd22da36010222259bed1f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: D4v0r <davorcortes.dc@gmail.com>
+Date:   Sat Feb 29 22:21:14 2020 -0500
+
+    Actualizacion de contenido
+
+[33mcommit dfae4903c5c73da9218e67706f2126b807cfc941[m
+Author: D4v0r <davorcortes.dc@gmail.com>
+Date:   Sat Feb 29 22:13:24 2020 -0500
+
+    Organizando directorios
+
+[33mcommit b25afcd9b92e05335d289de0721cfc70aed4e53c[m
+Author: D4v0r <davorcortes.dc@gmail.com>
+Date:   Sat Feb 29 22:10:50 2020 -0500
+
+    Organizando directorios
+
+[33mcommit 2321c2d3df07ca27e13357f59174246f4826370e[m
+Merge: a9efa75 46561bd
+Author: Davor Javier Cortés Cardozo <47872469+D4v0r@users.noreply.github.com>
+Date:   Sat Feb 29 22:05:48 2020 -0500
+
+    Merge pull request #1 from D4v0r/circleci-project-setup
+    
+    Circleci project setup
+
+[33mcommit 46561bda5e299b3bff53a9f7361d050772d2d38f[m[33m ([m[1;31morigin/circleci-project-setup[m[33m)[m
+Author: Davor Javier Cortés Cardozo <47872469+D4v0r@users.noreply.github.com>
+Date:   Sat Feb 29 21:59:34 2020 -0500
+
+    Add .circleci/config.yml
+
+[33mcommit 9993e62acb3d2a7c83b62e6d4d6d7ab1e94d7a12[m
+Author: Davor Javier Cortés Cardozo <47872469+D4v0r@users.noreply.github.com>
+Date:   Sat Feb 29 21:58:26 2020 -0500
+
+    Add .circleci/config.yml
+
+[33mcommit 371ea0e04b1a52d388e369e3a869292e8969b1d6[m
+Author: Davor Javier Cortés Cardozo <47872469+D4v0r@users.noreply.github.com>
+Date:   Sat Feb 29 21:58:00 2020 -0500
+
+    Update config.yml
+
+[33mcommit 7e0c8a65cdd45b289bb8b4910fb0fa0ae1547a9a[m
+Author: Davor Javier Cortés Cardozo <47872469+D4v0r@users.noreply.github.com>
+Date:   Sat Feb 29 21:55:59 2020 -0500
+
+    Add .circleci/config.yml
+
+[33mcommit 7fb589bf06be704ce1b52a0ef522544ee576415a[m
+Author: Davor Javier Cortés Cardozo <47872469+D4v0r@users.noreply.github.com>
+Date:   Sat Feb 29 21:53:46 2020 -0500
+
+    Add .circleci/config.yml
+
+[33mcommit a9efa75af01576006e12999fe6bfda9793361dc0[m
+Author: D4v0r <davorcortes.dc@gmail.com>
+Date:   Sat Feb 29 21:42:34 2020 -0500
+
+    configuracion de heroku y circleci
+
+[33mcommit d17ada2f17b31bbcce7acc811b22b0bc5b1831ec[m
+Author: D4v0r <davorcortes.dc@gmail.com>
+Date:   Sat Feb 29 21:31:39 2020 -0500
+
+    Heroku compatibility
+
+[33mcommit 147fb34336099bdb08a72dbb98757fe48277c795[m
+Author: Davor Javier Cortés Cardozo <47872469+D4v0r@users.noreply.github.com>
+Date:   Sat Feb 29 21:19:34 2020 -0500
+
+    Add .circleci/config.yml
+
+[33mcommit 3de22738ed3a9b5786ba821945ad66abfb5a199f[m
+Author: D4v0r <davorcortes.dc@gmail.com>
+Date:   Sat Feb 29 21:18:49 2020 -0500
+
+    Inicio del proyecto
+
+[33mcommit 147fd7a66fe027a1830d59ae8c9b57772708cd68[m
+Author: Davor Javier Cortés Cardozo <47872469+D4v0r@users.noreply.github.com>
+Date:   Sat Feb 29 21:09:28 2020 -0500
+
+    Add .circleci/config.yml
+
+[33mcommit 9b511881151b929b12ae2dd60c215c32b28c4bbb[m
+Author: Davor Javier Cortés Cardozo <47872469+D4v0r@users.noreply.github.com>
+Date:   Sat Feb 29 20:36:04 2020 -0500
+
+    Add .circleci/config.yml
+
+[33mcommit 9cc3890d26e2d1af6f9bcc6c9b4d9a132c86df5b[m
+Author: Davor Javier Cortés Cardozo <47872469+D4v0r@users.noreply.github.com>
+Date:   Thu Feb 27 09:57:04 2020 -0500
+
+    Initial commit
