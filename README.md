@@ -1,4 +1,11 @@
-# CVDS-LAB06
+# Laboratorio 6 - Introducción CI - 2020-1
+> Universidad: _Escuela Colombiana de Ingeniería_
+
+> Asignatura:  _Ciclos del Vida de Desarrollo de Software_
+
+> Autor: _Davor Cortés_
+
+## Guess Game Web App
 
 [![CircleCI](https://circleci.com/gh/D4v0r/CVDS-LAB06.svg?style=svg)](https://circleci.com/gh/D4v0r/CVDS-LAB06)
 
