@@ -1,0 +1,32 @@
+#guess_form{
+  text-align: center;
+  margin: auto;
+  position: relative;
+  left:-10%;
+}
+.navbar-header {
+    float: left;
+    padding: 15px;
+    text-align: center;
+    width: 100%;
+}
+.navbar-brand{
+  color: white;
+	position:relative;
+  text-align: center;
+  float: none;
+}
+
+#logo{
+  position: relative;
+  margin: auto;
+}
+.container{
+  margin: auto;
+  position: absolute;
+  left:50%;
+
+}
+p {
+  text-align: center;
+}
