@@ -89,10 +89,10 @@ public class SessionBacking {
             estado = String.format("Ganaste !! tu premio es de %s", premioAcumulado);
         } else {
             estado = "Perdiste =( ";
-            premioAcumulado -= 10000;
+            if (premioAcumulado > 0) premioAcumulado -= 10000;
             intentosFallidos.add(intento);
         }
-        System.out.println(intento);
+        
     }
 
     /**
